@@ -2,4 +2,6 @@
     <string name="app_name">An APK</string>
     <string name="please_enter_your_name_below">Please enter your name below:</string>
     <string name="textview">TextView</string>
+    <string name="play">Play</string>
+    <string name="todo">TODO</string>
 </resources>

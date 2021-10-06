@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Codes/Projects/Birthday Greet/app/src/main/res/drawable/ic_baseline_crop_portrait_24.xml" value="0.2203125" />
         <entry key="..\:/Codes/Projects/Birthday Greet/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
         <entry key="..\:/Codes/Projects/Birthday Greet/app/src/main/res/layout/activity_main.xml" value="0.176" />
-        <entry key="..\:/Codes/Projects/Birthday Greet/app/src/main/res/layout/activity_surprise.xml" value="0.2" />
+        <entry key="..\:/Codes/Projects/Birthday Greet/app/src/main/res/layout/activity_surprise.xml" value="0.264" />
       </map>
     </option>
   </component>
